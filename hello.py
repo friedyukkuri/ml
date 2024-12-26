@@ -5,6 +5,8 @@ def hello():
     print("this is mike's code")
     print("this is mike's code")
     print("fk u yukkuri")
+    print("sbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsbsb")
+    print("sbsbsbsbsbsbsbsbsbs")
 
 def t():
     while True:
