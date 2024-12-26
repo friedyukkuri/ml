@@ -1,8 +1,8 @@
 import time
 def hello():
 
-    print("Hello wu")
-    print("Hello world")
+    print("sdklfjhaslkjdfhlakjsdhflkja")
+    print("Helasdfasdfasdfasdfasdforld")
 
 def t():
     while True:
