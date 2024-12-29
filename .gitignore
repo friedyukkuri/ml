@@ -1,2 +1,5 @@
 poem.txt
 results.txt
+
+# ignore __pycache__ directory
+__pycache__/
